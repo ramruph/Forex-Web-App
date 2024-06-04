@@ -1,5 +1,5 @@
 # Forex-Web-App
-[alt](https://github.com/ramruph/Forex-Web-App/blob/main/images/demo.gif)
+![alt images](https://github.com/ramruph/Forex-Web-App/blob/main/images/demo.gif)
 
 # Project Name: Forex Trading Application
 
@@ -30,9 +30,9 @@ The folder structure is as follows:ß
 -Procfile: configuration for Heroku
 -requirements.txt: system requirements for running application locally
 
-[alt](https://github.com/ramruph/Forex-Web-App/blob/main/images/screenshot1.png)
+![alt images](https://github.com/ramruph/Forex-Web-App/blob/main/images/screenshot1.png)
 
-[alt](https://github.com/ramruph/Forex-Web-App/blob/main/images/screenshot2.png)
+![alt images](https://github.com/ramruph/Forex-Web-App/blob/main/images/screenshot2.png)
 
 ## Setup Instructions
 ### Prerequisites
