@@ -51,4 +51,4 @@ def get_price_data(pair):
 
 if __name__ == "__main__":
     # start_http_server(9001)
-    app.run(port=8000, debug=True)
+    app.run()
