@@ -3,4 +3,3 @@ pandas
 python-dotenv
 requests
 whitenoise
-python==3.9.0
