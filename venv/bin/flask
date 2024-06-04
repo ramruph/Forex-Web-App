@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/shawn/Documents/Masters in Data Science/Summer 1 2024/Applications of SA for Big Data/FX App/my_flask_app/venv/bin/python3" "$0" "$@"
+'''exec' "/Users/shawn/Documents/Masters in Data Science/Summer 1 2024/Applications of SA for Big Data/FX App/foreignCurrency_app/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
