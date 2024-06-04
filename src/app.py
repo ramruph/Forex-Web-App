@@ -15,9 +15,6 @@ app = Flask(__name__)
 app.wsgi_app = WhiteNoise(
     app.wsgi_app, root="static/", index_file=True, autorefresh=True
 )
-@app.route("/")
-def main():
-    return 
 
 # @app.before_request
 # def before_request():
