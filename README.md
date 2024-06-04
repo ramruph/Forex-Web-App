@@ -2,8 +2,7 @@
 ![alt images](https://github.com/ramruph/Forex-Web-App/blob/main/images/demo.gif)
 
 # Project Name: Forex Trading Application
-
-This Forex Trading Application is designed to provide real-time forex data and perform various data analyses. The application is built using Flask for the web interface and integrates Prometheus for monitoring.
+[Project Link](https://github.com/ramruph/Forex-Web-App)This Forex Trading Application is designed to provide real-time forex data and perform various data analyses. The application is built using Flask for the web interface and integrates Prometheus for monitoring.
 
 ## Features
 I chose this system design and approach to accomplish the following goals for the project's end:
